@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.marcp.guessthenumber"
+    namespace = "com.marcp.pr12_guessthenumber_pmarc"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.marcp.guessthenumber"
+        applicationId = "com.marcp.pr12_guessthenumber_pmarc"
         minSdk = 25
         targetSdk = 37
         versionCode = 1
